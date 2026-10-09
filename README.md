@@ -4,9 +4,11 @@
 
 ## 下载
 
-[Keepsy v1.0.1（Windows 64 位）](https://github.com/ballmaK/keepsy-download/releases/download/v1.0.1/Keepsy-v1.0.1-win-x64.zip)
+[Keepsy v1.0.2（Windows 64 位）](https://github.com/ballmaK/keepsy-download/releases/download/v1.0.2/Keepsy-v1.0.2-win-x64.zip)
 
 解压后运行 `Keepsy.exe`。.NET 已在包内，不用单独安装。需要 Windows 10 或 Windows 11。
+
+这一版加快了备份剩余。同一个相册里的文件会连续读出来。
 
 用数据线连上 iPhone，解锁，并在手机上信任这台电脑。
 
