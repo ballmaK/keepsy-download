@@ -4,9 +4,11 @@
 
 ## 下载
 
-[Keepsy v1.0.2（Windows 64 位）](https://github.com/ballmaK/keepsy-download/releases/download/v1.0.2/Keepsy-v1.0.2-win-x64.zip)
+[Keepsy v1.0.2（Windows 64 位，含 .NET）](https://github.com/ballmaK/keepsy-download/releases/download/v1.0.2/Keepsy-v1.0.2-win-x64.zip)
 
-解压后运行 `Keepsy.exe`。.NET 已在包内，不用单独安装。需要 Windows 10 或 Windows 11。
+[Keepsy v1.0.2（Windows 64 位，本机已有 .NET 8）](https://github.com/ballmaK/keepsy-download/releases/download/v1.0.2/Keepsy-v1.0.2-win-x64-framework.zip)
+
+两个都是解压后运行 `Keepsy.exe`，需要 Windows 10 或 Windows 11。第一份自带 .NET。第二份不带 .NET，本机要已经装有 .NET 8 SDK 或运行库。界面所需的 Windows App SDK 两份都带。
 
 这一版加快了备份剩余。同一个相册里的文件会连续读出来。
 
